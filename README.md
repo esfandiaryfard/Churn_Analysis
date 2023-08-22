@@ -1,2 +1,2 @@
-# Churn_Analysis
-Analyse and predict of churn in a company
+# Churn Analysis
+Analyse and predict churn in a company
